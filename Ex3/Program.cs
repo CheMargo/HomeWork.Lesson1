@@ -3,22 +3,7 @@
 
 4 -> да
 -3 -> нет
-7 -> нет
-int a;                             
-            Console.WriteLine("введите число: ");
-            a = Convert.ToInt32(Console.ReadLine()); 
- 
-            if (a % 2 == 0)
-            {
-                Console.WriteLine("четное число");
-           
-            }
-            else
-            {
-                Console.WriteLine("нечетное");
-            }
- 
-*/
+7 -> нет*/
 
 Console.WriteLine("Введите число");
 int a = Convert.ToInt32(Console.ReadLine());
